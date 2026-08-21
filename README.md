@@ -47,7 +47,7 @@ Future Enhancements
 
 Author
 
-Hrithik C K
+Hrithik C K & Hifzul Rahman
 
 License
 
